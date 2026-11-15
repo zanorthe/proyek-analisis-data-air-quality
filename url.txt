@@ -1,1 +1,1 @@
-https://[isi-url-streamlit-cloud-anda].streamlit.app
+https://proyek-analisis-data-air-quality-asah26-DS009B6Y0599.streamlit.app

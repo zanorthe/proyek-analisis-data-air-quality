@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Proyek Analisis Data: Air Quality Dataset (Beijing Multi-Site)
 
 ## Struktur
@@ -31,3 +32,6 @@ streamlit run dashboard/dashboard.py
 - `main_data.csv.gz` dihasilkan oleh sel terakhir bagian analisis di notebook (jalankan notebook dari folder `submission`).
 - Koordinat stasiun pada peta adalah perkiraan, karena tidak tersedia di dataset.
 - Untuk deploy ke Streamlit Cloud: push folder ke GitHub, pilih `dashboard/dashboard.py` sebagai main file, lalu isi URL di `url.txt`.
+=======
+# proyek-analisis-data-air-quality
+>>>>>>> 0b0f0a0b971ecd85bfdc93ed8bc03747e73f2f12
