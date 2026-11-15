@@ -1,0 +1,1 @@
+https://[isi-url-streamlit-cloud-anda].streamlit.app
