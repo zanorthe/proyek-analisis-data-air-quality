@@ -23,7 +23,7 @@ CAT_COLORS = ["#2a9d8f", "#e9c46a", "#f4a261", "#e76f51", "#9d0208", "#370617"]
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv(os.path.join(BASE, "main_data.csv.gz"), parse_dates=["datetime"])
+    df = pd.read_csv(os.path.join(BASE, "main_data.csv"), parse_dates=["datetime"])
     df["date"] = df["datetime"].dt.normalize()
     df["month"] = df["datetime"].dt.month
     df["hour"] = df["datetime"].dt.hour

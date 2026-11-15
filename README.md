@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Proyek Analisis Data: Air Quality Dataset (Beijing Multi-Site)
 
 ## Struktur
